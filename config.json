@@ -1,0 +1,28 @@
+{
+  "publicParents": ["1008637072837451846"],
+  "registerParents": ["1008637070769659909"],
+  "solvingParents": ["1008637072019558408"],
+  "privateParents": ["1008637074074763335"],
+  "aloneParents": ["1008637072443199542"],
+  "funParents": ["1008637073206554706"],
+  "ignoreChannels": ["1008637073600827406"],
+  "coinSystem": true,
+  "rankLog": "1012787527880556576",
+  "tag": "彡",
+  "staffs": ["1008637070236987421"],
+  "messageCount": 1,
+  "messageCoin": 1,
+  "voiceCount": 1,
+  "voiceCoin": 1,
+  "publicCoin": 1,
+  "taggedCoin": 1,
+  "emojis": {
+    "coin": "a:Diamond1:1010857783190618162>",
+    "fillStart": "<a:gifshare_perfect:1010520876237738074>",
+    "fill": "<a:gifshare_perfect:1010520876237738074>",
+    "fillEnd": "<a:gifshare_perfect:1010520876237738074>",
+    "emptyStart": "<a:gifshare_perfect:1010520876237738074>",
+    "empty": "<a:gifshare_perfect:1010520876237738074>",
+    "emptyEnd": "<a:gifshare_perfect:1010520876237738074>"
+  }
+}
